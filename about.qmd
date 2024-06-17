@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
+## About Me
 
-Sagar Raut
+My name is **Sagar Raut**, and I will be going to *NVHS*.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
