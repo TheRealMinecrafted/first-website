@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_publish.yml
+*Rproj
+/_site/
+
+/.quarto/
